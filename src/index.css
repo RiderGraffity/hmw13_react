@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #f2f2f2;
+}
+
+.box {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
+.box h3 {
+  margin-top: 0;
+}
+
+.err {
+  color: red;
+  font-size: 13px;
+}
+
+.popup {
+  background: #ffe9a8;
+  padding: 20px;
+  display: inline-block;
+}
+
+input {
+  display: block;
+  margin-bottom: 6px;
+  padding: 4px;
+}
+
+button {
+  margin-right: 6px;
+}
